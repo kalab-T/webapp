@@ -1,14 +1,6 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": ".output/public",
-  "installCommand": "npm install",
-  "framework": "nuxt",
+  "framework": "nuxtjs",
   "regions": ["fra1"],
-  "functions": {
-    "api/**/*.ts": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "env": {
     "TELEGRAM_BOT_TOKEN": "@telegram-bot-token",
     "TELEGRAM_CHAT_ID": "@telegram-chat-id"
