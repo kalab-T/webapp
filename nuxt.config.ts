@@ -1,15 +1,19 @@
+/// <reference types="nuxt" />
 import process from 'node:process'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
+  srcDir: 'app',
+  dir: {
+    public: '../public'
+  },
   devtools: { enabled: true },
   runtimeConfig: {
     telegramBotToken: process.env.TELEGRAM_BOT_TOKEN,
     telegramChatId: process.env.TELEGRAM_CHAT_ID
   },
   nitro: {
-    preset: 'vercel',
     externals: {
       inline: [
         'vue',
