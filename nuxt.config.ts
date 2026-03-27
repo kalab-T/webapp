@@ -9,7 +9,16 @@ export default defineNuxtConfig({
     telegramChatId: process.env.TELEGRAM_CHAT_ID
   },
   nitro: {
-    preset: 'vercel'
+    preset: 'vercel',
+    externals: {
+      inline: [
+        'vue',
+        'vue-router',
+        'vue-bundle-renderer',
+        '@vue/shared',
+        '@vue/server-renderer'
+      ]
+    }
   },
   app: {
     head: {
