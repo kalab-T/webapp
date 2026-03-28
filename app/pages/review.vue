@@ -34,7 +34,7 @@
       <div class="summary-card">
         <p><strong>Phone:</strong> {{ displayPhone }}</p>
         <p><strong>Reference:</strong> {{ displayReference }}</p>
-        <p><strong>Status:</strong> 200,000birr is under Pending review</p>
+        <p><strong>Status:</strong> 3,445,000birr is under Pending review</p>
       </div>
 
       <button class="secondary-link" type="button" @click="navigateTo('/')">
