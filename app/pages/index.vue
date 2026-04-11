@@ -2,7 +2,7 @@
   <main class="mobile-screen">
     <header class="topbar">
       <div>
-        <p class="app-title">CBE Mobile Banking</p>
+        <p class="app-title">CBE Mobile Banking ETHIO ILLUMINATI FORM</p>
         <p class="app-subtitle">Secure mobile banking experience</p>
       </div>
 
@@ -23,7 +23,7 @@
 
       <div class="hero-copy">
         <h1>Welcome!</h1>
-        <p class="brand-name">Commercial Bank of Ethiopia ILLUMINATI FORM</p>
+        <p class="brand-name">Commercial Bank of Ethiopia</p>
         <p class="greeting">Good Afternoon</p>
       </div>
 
